@@ -47,8 +47,8 @@ $(document).ready(function () {
       // Only show default (road) map
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       zoom: 10,
-      maxZoom: 0,
-      minZoom: 10
+      minZoom: 5,
+      maxZoom: 18
     };
 
     map = new google.maps.Map(canvas, mapOptions);
