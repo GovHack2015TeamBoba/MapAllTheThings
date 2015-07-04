@@ -4,6 +4,7 @@ $(document).ready(function () {
   $layerControl = $('#layer-control');
 
   var map;
+  var autoCompleteInput;
   var layersDrawn = [];
 
   function drawLayerControls (layersDrawn) {
@@ -51,7 +52,60 @@ $(document).ready(function () {
       maxZoom: 18
     };
 
+    var westernAustraliaBounds = new google.maps.LatLngBounds(
+      new google.maps.LatLng(-34.981,111.203),
+      new google.maps.LatLng(-12.861,129.878)
+    );
+
+    var autocompleteOptions = {
+      bounds: westernAustraliaBounds,
+      componentRestrictions: {country: 'au'}
+    };
+
     map = new google.maps.Map(canvas, mapOptions);
+
+    autoCompleteInput = document.getElementById('pac-input');
+
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(autoCompleteInput);
+
+    var autocomplete = new google.maps.places.Autocomplete(autoCompleteInput, autocompleteOptions);
+    autocomplete.bindTo('bounds', map);
+
+    var marker = new google.maps.Marker({
+      map: map,
+      anchorPoint: new google.maps.Point(0, -29)
+    });
+
+    google.maps.event.addListener(autocomplete, 'place_changed', function() {
+      // hide any visible marker
+      marker.setVisible(true);
+
+      var place = autocomplete.getPlace();
+
+      if (!place.geometry) {
+        window.alert("Sorry, no geometry data found.");
+        return;
+      }
+
+      // If the place has a geometry, then present it on a map.
+      if (place.geometry.viewport) {
+        map.fitBounds(place.geometry.viewport);
+      } else {
+        map.setCenter(place.geometry.location);
+        map.setZoom(17);  // Why 17? Because it looks good.
+      }
+
+      marker.setIcon(({
+        url: place.icon,
+        size: new google.maps.Size(71, 71),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(17, 34),
+        scaledSize: new google.maps.Size(35, 35)
+      }));
+      marker.setPosition(place.geometry.location);
+      marker.setVisible(true);
+
+    });
 
     $.each(MapAllTheThings.slip_layers, function(i, layerObject) {
       // Create a data layer for each layer set availale and hide it by default
