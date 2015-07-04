@@ -13,13 +13,15 @@ $(document).ready(function () {
       // Only show default (road) map
       mapTypeIds: [google.maps.MapTypeId.ROADMAP]
     },
-    zoom: 6
+    zoom: 6,
+    maxZoom: 0,
+    minZoom: 6
     }
 
-  function initialize() {
+  function initializeMap() {
     map = new google.maps.Map(canvas, mapOptions);
   }
 
-  google.maps.event.addDomListener(window, 'load', initialize);
+  google.maps.event.addDomListener(window, 'load', initializeMap);
 
 });
