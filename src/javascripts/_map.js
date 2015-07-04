@@ -1,28 +1,11 @@
 $(document).ready(function () {
 
-  canvas = document.getElementById('map-canvas')
+  canvas = document.getElementById('map-canvas');
+  $layerControl = $('#layer-control');
 
   var map;
-  var LAYERS = {};
-
-  function initializeMap() {
-    var mapOptions = {
-      // WA State
-      // center: new google.maps.LatLng(-27.288135,121.972796),
-      // Perth
-      center: new google.maps.LatLng(-31.9528536,115.8573389),
-      clickable: true,
-      streetViewControl: false,
-      // Only show default (road) map
-      mapTypeId: google.maps.MapTypeId.ROADMAP,
-      zoom: 10,
-      maxZoom: 0,
-      minZoom: 10
-    };
-
-    map = new google.maps.Map(canvas, mapOptions);
-
-    LAYERS = {
+  var layersDrawn = [];
+  var LAYERS = {
       garden_bore_suitability: '09372590152434720789-01302480197074991316',
       public_transport_authority_services_bus_routes: '09372590152434720789-13313542664337428076',
       public_transport_authority_services_bus_stops: '09372590152434720789-02406381474707693508',
@@ -50,15 +33,66 @@ $(document).ready(function () {
       medium_scale_topo_commercial_poi: '09372590152434720789-16952463091039879055',
       railway_lines: '09372590152434720789-18334593804525489987',
       iron_staining_risk: '09372590152434720789-01595251729696585091',
-      environmental_sensitivity: '09372590152434720789-01627525817521224070',
+      environmental_sensitivity: '09372590152434720789-01627525817521224070'
     }
 
+  function drawLayerControls (layersDrawn) {
+    var $layerList = $('<ul>');
+
+    $.each(layersDrawn, function (i, layer){
+      i++;
+      $layer = $('<li>');
+      $layer.append(drawLayerCheckbox(i, layer));
+      $layerList.append($layer);
+    });
+
+    $layerControl.append($layerList);
+  }
+
+  function drawLayerCheckbox (id, layer) {
+    var $label = $('<label>');
+    var $checkbox = $('<input type="checkbox" id="layer_'+ id +'">');
+
+    $checkbox.attr("checked", true);
+
+    $checkbox.click(function (){
+      layer.setMap($(this).is(':checked') ? map : null);
+    });
+
+    $label
+      .append($checkbox)
+      .append(' Layer: ' + id);
+
+    return $label;
+  }
+
+  function initializeMap() {
+    var mapOptions = {
+      // WA State
+      // center: new google.maps.LatLng(-27.288135,121.972796),
+      // Perth
+      center: new google.maps.LatLng(-31.9528536,115.8573389),
+      clickable: true,
+      streetViewControl: false,
+      // Only show default (road) map
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      zoom: 10,
+      maxZoom: 0,
+      minZoom: 10
+    };
+
+    map = new google.maps.Map(canvas, mapOptions);
+
     $.each(LAYERS, function(name, id) {
-      new google.maps.visualization.MapsEngineLayer({
+      var layer = new google.maps.visualization.MapsEngineLayer({
         layerId: id,
         map: map
       });
+
+      layersDrawn.push(layer);
     });
+
+    drawLayerControls(layersDrawn);
   }
 
   google.maps.event.addDomListener(window, 'load', initializeMap);
