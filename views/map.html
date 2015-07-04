@@ -1,5 +1,11 @@
 {% extends 'layout.html' %}
 
+{% block headerjs %}
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+{% endblock %}
+
 {% block content %}
-here be a map
+  <div id="map-canvas">
+
+  </div>
 {% endblock %}
