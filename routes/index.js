@@ -38,7 +38,7 @@ router.get('/', function(req, res, next) {
     {
       id:6,
       title:"Foo",
-      parent:2,
+      parent:1,
       url:""
     },
     {

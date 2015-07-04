@@ -1,22 +1,22 @@
-
+var level = 0;
 function renderData(data, parent){
   var added = false;
-  var el = $("<li></li>");
+  var list = $("<ul class='level"+ (level++) +"'></ul>");
   for(var i = 0;i<data.length; i++){
     var d = data[i];
     if (d.parent == parent){
       added = true;
+      var el = $("<li></li>");
       el.append("<h3>"+d.title+"</h3>");
       var rt = renderData(data,d.id);
       if(rt){
-        var ul = $("<ul></ul>");
-        ul.append(rt);
-        el.append(ul);
+        el.append(rt);
       }
+      list.append(el);
     }
   }
   if(added){
-    return el;
+    return list;
   } else {
     return null;
   }
@@ -24,6 +24,6 @@ function renderData(data, parent){
 
 $(document).ready(function(){
   if(document.wizdata){
-    $("#level0").append(renderData(document.wizdata, 0));
+    $("#wizard").append(renderData(document.wizdata, 0));
   }
 });
