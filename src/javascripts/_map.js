@@ -66,6 +66,6 @@ $(document).ready(function () {
     drawLayerControls(layersDrawn);
   }
 
-  if (canvas) google.maps.event.addDomListener(window, 'load', initializeMap);
+ if(canvas)  google.maps.event.addDomListener(window, 'load', initializeMap);
 
 });
