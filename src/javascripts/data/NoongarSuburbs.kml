@@ -1,0 +1,4240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Noongar+Lat&#38;Long.csv Events">
+  <name>Noongar+Lat&#38;Long.csv Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Noongar+Lat&#38;Long.csv Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>COOGEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COOGEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COOGEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of "Coogee" takes its name from the lake in the area. Originally, this lake was named Lake Munster after Prince William, the Earl of Munster and later King William IV. The Aboriginal name Kou-Gee was recorded in 1841 by Thomas Watson and variously spelt as Koojee, Coojee and Coogee, which gradually gained pre-eminence over the old name</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-33.920491</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>151.254401</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.00135874140208643,-0.000304712955102747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>CARRAMAR</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CARRAMAR</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>CARRAMAR</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Carramar is an Aboriginal word meaning "shade of trees", and was approved as a suburb name in 1997</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-33.884558</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>150.961884</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001356113677166782,-0.0003043901634833467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>MIRRABOOKA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Mirrabooka is an Aboriginal word for the Southern Cross constellation. The name was proposed by the state government in 1954 for a large tract of land to be developed for public housing. It was named the "Mirrabooka Project", but the area now known as Mirrabooka was only named as a suburb in 1980.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-33.095642</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>151.553169</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001361425280694489,-0.0002973032104747877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>MERRIWA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MERRIWA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MERRIWA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name originally proposed for this suburb by the Shire of Wanneroo was 'Hester' after one of the first land owners in the vicinity. This was approved in 1980, but the name was opposed by Australia Post on account of duplication. Because of this the Shire of Wanneroo proposed the name Merriwa ( an Aboriginal word for 'a good place'). The name was approved in 1980.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.50643</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>150.642146</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001353241421843644,-0.000283027076175931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>JINDALEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JINDALEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JINDALEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Name proposed by the Shire of Wanneroo 29/6/1979. This is an Aboriginal word meaning "a bare hill"</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-27.5564</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>152.93284</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001373819076158053,-0.0002475433529439795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>MINDARIE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MINDARIE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MINDARIE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb is named after Mindarie Lake, an Aboriginal name first recorded by Alexander Forrest in 1874. The Aboriginal meaning for the name is possibly "the place near which is held a ceremony". Another meaning has been given as "green water" The suburb was to have been named Clarkson prior to development, but the two names were transposed in 1985.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-35.023488</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>140.046185</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001258056284681301,-0.0003146213457275746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>KARRAKATTA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARRAKATTA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARRAKATTA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The termination katta is well known, and is given as the Aboriginal word for a hill, or the top of any height, in the early Aboriginal vocabularies. The karra is more difficult as it may be derived from - Karri - a crab, Karak - the red-tailed black cockatoo, Kara - a spider, Karh-rh - an orchid with an edible root. The meaning of the combined word could therefore be the hill, or top of the hill, where the orchid with the edible root is found, or the hill frequented by the red-tailed black cockatoo, or the hill where spiders are found and so on. It is not definitely known which is the exact area called by the Aborigines "Karrakatta" but it is generally thought to be been the top of Mount Eliza.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.981145</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.781247</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040080637945175,-0.0002872915135764622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>GWELUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>GWELUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>GWELUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Gwelup takes its name from a small swampy lake located in the southern portion of the suburb. The feature is recorded in Lands Department records in 1878 as Gwelup Swamp and in recent years as the surrounds have been cleared and filled, it has been recorded as a lake. The Aboriginal meaning of the name has been derived from "Gwelgannow" which means to "shift the position" and "step aside" and would therefore probably be "the lake that shifted position".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.920203</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.787679</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040138417584249,-0.0002867440622812482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>INNALOO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>INNALOO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>INNALOO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The area of this suburb was originally known by the Aboriginal name "Njookenbooroo" (sometimes spelt Ngurgenboro or Noorgenboro). This name was too difficult to pronounce or spell, and in 1927 an alternative name was sought. A list of Aboriginal words compiled by Daisy Bates was provided and "Innaloo", the name of an Aboriginal woman from Dongara was chosen. The name was approved in 1927</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.920203</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.787679</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040138417584249,-0.0002867440622812482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>KARRINYUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARRINYUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARRINYUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The development of the area today known as KARRINYUP had its beginnings in the early 1840's when Samuel Moore took up a grant of 780 acres in the northern part of the suburb. Moore's grant, Swan Location 92 was surveyed by P Chauncey in 1844 and Chauncey recorded a large swamp just to the east of Karrinyup as Careniup Swamp. This swamp is still known by this name today, and is the name from which Karrinyup is derived. When the golf course was being developed in the late 1920's the Foundation Committee altered Careniup to create Karrinyup</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.920203</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.787679</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040138417584249,-0.0002867440622812482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>BALCATTA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BALCATTA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BALCATTA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The area now known as Balcatta was once contained in the northern half of Perth Shire location Au granted to T.R.C. Walters on the 10th March 1840. The name Balcatta was recorded by Alexander Forrest in 1877 as being the Aboriginal name for the northern position of Careniup Swamp and the name was used on an offer of sale by Mr Mews in 1888. A later owner, James Arbuckle, named his house Balcatta after the area it overlooked.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.863835</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.817189</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040403510424593,-0.0002862376999104086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>KALLAROO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KALLAROO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KALLAROO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Kallaroo is one of the four "Whitfords" suburbs that resulted from the State Government rezoning a large area of coastal land for development in 1969. Kallaroo was chosen as a suburb name in 1970 and is an Aboriginal word meaning "road to the water".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.784792</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.767788</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039959733691085,-0.0002855276445636598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>JOONDALUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JOONDALUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JOONDALUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb is named after Lake Joondalup, situated on the eastern side of the suburb. Joondalup is an Aboriginal word first recorded in 1837, and possibly means "place of of whiteness or glistening". Another account states that a 'joondal' is a creature that can only move backwards.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.777325</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.75682</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039861206470723,-0.0002854605673651497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>MULLALOO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MULLALOO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MULLALOO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Mullaloo is an Aboriginal word, and was first recorded for a point on the coast near here in 1919. It was first shown as Moolalloo Point, but the spelling was later changed to Mullaloo, and the feature is now known as Pinnaroo Point. The beach here was locally known as Mullaloo Beach around the turn of the century, but urban subdivision only commenced in the late 1950's. One record of the Aboriginal name records it as meaning "place of the rat kangaroo".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.777325</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.75682</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039861206470723,-0.0002854605673651497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>MERRIWA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MERRIWA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MERRIWA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name originally proposed for this suburb by the Shire of Wanneroo was 'Hester' after one of the first land owners in the vicinity. This was approved in 1980, but the name was opposed by Australia Post on account of duplication. Because of this the Shire of Wanneroo proposed the name Merriwa ( an Aboriginal word for 'a good place'). The name was approved in 1980.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.677452</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.721326</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039542358443778,-0.0002845633929383813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>MINDARIE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MINDARIE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MINDARIE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb is named after Mindarie Lake, an Aboriginal name first recorded by Alexander Forrest in 1874. The Aboriginal meaning for the name is possibly "the place near which is held a ceremony". Another meaning has been given as "green water" The suburb was to have been named Clarkson prior to development, but the two names were transposed in 1985.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.677452</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.721326</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039542358443778,-0.0002845633929383813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>CARRAMAR</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CARRAMAR</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>CARRAMAR</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Carramar is an Aboriginal word meaning "shade of trees", and was approved as a suburb name in 1997</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.697991</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.814615</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.00104038038778918,-0.000284747897907786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>NEERABUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NEERABUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>NEERABUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Named after Lake Neerabup which was first recorded by surveyor J. Cowle in 1867. Aboriginal derivation of the name is possibly "swampy place" or "small basin or lake". Another version of the spelling is Neerabub. Another authority states that this lake was once called Pappas Swamp. The suburb name was approved in 1982</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.697991</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.814615</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.00104038038778918,-0.000284747897907786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>NOWERGUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NOWERGUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>NOWERGUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Nowergup takes its name from Lake Nowergup. The lake name was first recorded by Surveyor General J S Roe in 1841, and is an Aboriginal word which possibly means "place of sweet water". It was approved as a suburb name in 1982.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.642666</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.735647</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039671006175617,-0.0002842509049803159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>CARABOODA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CARABOODA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>CARABOODA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This name was adopted for a suburb near Wanneroo in 1982 and takes its name from the lake in the area. Original spelling as recorded by J.W. Gregory in January 1843 was Karroborup when marking Swan Location 113 for M. MacDermott, but by 1867, the current spelling was in use.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.60348</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.746096</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039764871139654,-0.000283898891162391,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>YANCHEP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>YANCHEP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>YANCHEP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name Yanchep is of Aboriginal origin, and is derived from “yanget”, a native flax or bullrush. The name was first recorded for Lake Yanchep by surveyor R. Quinn in September 1866.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.54667</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.632045</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001038740333574963,-0.000283388558237976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>JINDALEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JINDALEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JINDALEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Name proposed by the Shire of Wanneroo 29/6/1979. This is an Aboriginal word meaning "a bare hill"</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.649385</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.70986</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039439357613301,-0.0002843112627863393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>COOLBINIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COOLBINIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COOLBINIA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>"Coolbinia" was for many years regarded as part of Mount Lawley. Development was mainly in the late 1940's and early 1950's and in 1953. The name chosen for a new school in the area in August 1953 was Coolbinia, an Aboriginal name meaning "Mistletoe" and it soon came to be adopted for the adjoining suburban area. Street names in Coolbinia commemorate many town and district names in Western Australia, eg., Carnarvon, Ardross, Marradon, Koorda etc.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.913458</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.857753</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040767903036444,-0.0002866834709080112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>BOYA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BOYA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BOYA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>To supply the stone required to build the groynes at Fremantle Harbour, a Government quarry was established in the hills a little south-west of Darlington. A spur line was run into the quarry from the existing railway and, by July 1901, dozens of iron and hessian huts housing approximately 150 workmen were clustered near the site. In August of 1901, construction began on a railway siding for the use of this settlement and the first name proposed was "Yan-Yeen". This was rejected because of a duplication in Victoria and the Aboriginal word "Boya", appropriately meaning rock/stone, was chosen instead. It was later found that the correct Aboriginal name for the area was "Nyeedoup" but Boya remains appropriate as the Aboriginal sub-tribe who once inhabited the hills were known as "BoyaNgoora".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.797228</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.02816</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042298695162653,-0.0002856393590532913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>KOONGAMIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KOONGAMIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KOONGAMIA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name of this suburb is derived from two Aboriginal words, "Koong" meaning "hill" and "mia" meaning "home". The suburb was formerly the Greenmount picnic reserve, and was developed by the State Housing Commission in 1955 and 1956.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.797228</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.02816</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042298695162653,-0.0002856393590532913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>TUART HILL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Tuart Hill is a descriptive name, and derives from the groves of Tuart trees on the rise above Dog Swamp adjacent to Wanneroo Road. In 1914 the Grenville Progress Association sought to have this place named "Grenville", but the name was rejected because it was too similar to Granville in New South Wales. The Progress Association then nominated "Tuart Hill" as an alternative. The name was not approved at this time, but became adopted through common usage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.909538</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.84596</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040661964714987,-0.0002866482569515777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>YOKINE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>YOKINE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>YOKINE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Named after Yokine Hill and Mount Yokine Golf Course. "Yokine" is an Aboriginal word (Beverley district) for the native dog. The hill situated on Williams Road was named by N.S. Bartlett in 1922 because it is so close to Native Dog Swamp. The hill was an important Trig Station and the land was referred to before this as part of Osborne Park.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.909538</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.84596</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040661964714987,-0.0002866482569515777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>BALGA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BALGA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BALGA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>"Balga" is an Aboriginal word for the grass tree Xanthorrhoea commonly known as "black boy" trees. The name was chosen in 1954 for a portion of what was then known as the "Mirrabooka Project Area". This was a State Housing Commission subdivision between Yokine and Wanneroo which also contained the suburbs of Nollamara and Yirrigan. Work commenced on the laying out of streets in Balga in 1959.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.861285</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.84319</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040637081381617,-0.0002862147928813151,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>MIRRABOOKA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Mirrabooka is an Aboriginal word for the Southern Cross constellation. The name was proposed by the state government in 1954 for a large tract of land to be developed for public housing. It was named the "Mirrabooka Project", but the area now known as Mirrabooka was only named as a suburb in 1980.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.861285</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.84319</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040637081381617,-0.0002862147928813151,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>NOLLAMARA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NOLLAMARA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>NOLLAMARA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Nollamara is one of the "Mirrabooka Project" suburbs developed by the State Housing Commission in the early 1950's. The suburb name was approved in 1954, and is the Aboriginal word for the red and green kangaroo paw, Western Australia's floral emblem.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.861285</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.84319</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040637081381617,-0.0002862147928813151,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>KOONDOOLA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KOONDOOLA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KOONDOOLA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Koondoola is an Aboriginal word meaning 'emu', and was approved as the name for this suburb in 1970.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.82761</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.867134</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040852173993247,-0.0002859122852112292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>MARANGAROO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MARANGAROO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MARANGAROO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Marangaroo is an Aboriginal word meaning "blue flowers". The suburb was named in 1977</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.82761</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.867134</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040852173993247,-0.0002859122852112292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>WANGARA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WANGARA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WANGARA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name of this suburb was created by combining the names of the two main roads adjoining it - Wanneroo and Gnangara. The name was approved in 1980</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.734209</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.792445</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040181231290691,-0.0002850732497464827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>WANNEROO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WANNEROO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WANNEROO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>In the early days of the Swan River Colony, the district of Wanneroo represented an "outer" region and it is not until 1834, that an excursion into the area by any explorers or settlers is recorded. In that year, a party of four led by John Butler, travelled about 35 miles north from Perth to search for lost cattle and passed through the area just to the east of Lake Joondalup. Butler stated that the aborigines of the area were "those Wanneroo men who frequent Perth in company with the Yellowgonga tribe." It is not known when early settlers started using the name "Wanneroo", but, as early as 1842, a Surveyor recorded "road to Wanneroo" and in 1844, James Dobbins gave his address as Wanneroo. A government townsite was gazetted as "Wanneru" in August 1907 and it was not until May 1953 that the spelling was amended to "Wanneroo".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.734209</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.792445</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040181231290691,-0.0002850732497464827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>CULLACABARDEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CULLACABARDEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>CULLACABARDEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>An Aboriginal word meaning "meeting place" - derived from an Aboriginal dialect of south west Australia. Approved as a suburb name in 1981.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.821166</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.912948</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001041263728157513,-0.0002858543977674714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>MUNDARING</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MUNDARING</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MUNDARING</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Permanent settlement in Mundaring began in 1882-84 when Mr Peter Gugeri established a vineyard south of the Eastern Railway. Gugeri was born in London in 1845 and gained experience in the wine industry in Italy. The first railway siding at Mundaring was named after him and for some years the area was generally known as "Gugeris". A later settler, M H Jacoby, took over Gugeris' vineyards in 1893, and named the business the "Mundaring Vineyard Company". The name came from an Aboriginal camp situated nearby and the meaning given to Jacoby by the aborigines was "a high place on a high place". The correct pronunciation was "Mundahring" but common usage has gradually converted this to "Mundairing".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.902029</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.168205</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001043556740802298,-0.000286580802450227,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>KALAMUNDA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KALAMUNDA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KALAMUNDA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb was named in 1901 following a request by 32 residents of the area for a townsite to be declared here. The residents chose the name "CALAMUNDA" as the name of the proposed townsite, combining two Aboriginal words recorded in a book on Aboriginal language by Bishop Salvado. "Cala" signifies "home, district, settlement," and "Munda" signifies "forest" and the residents hoped it would be considered an appropriate name. The name was respelt "Kalamunnda" by the Surveyor General, but later in 1901 was amended to Kalamunda.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.005284</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.090007</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042854276216422,-0.0002875083579042571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>GNANGARA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>GNANGARA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>GNANGARA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Gnangara is a rural suburb in the City of Wanneroo. It was approved in 1980 and derives its name from the lake located there, Lake Gnangara. Gnangara is an Aboriginal word, the meaning of which is not known, although possibly meaning "spring" (water flows into the lake from the NW corner).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>JANDABUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JANDABUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JANDABUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Name proposed by Shire of Wanneroo after Lake Jandabup. Aboriginal meaning is possibly "place of little eagle". A collection of oral histories about the Wanneroo Wetlands published by the Water Authority of WA in May 1994 states that this lake was sometimes referred to as Big Dundebar Lake.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>MARIGINIUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MARIGINIUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MARIGINIUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb is named after Mariginiup Lake. The lake name was recorded by surveyors in 1844, and in 1904 a townsite was declared here. This Aboriginal name is said to possibly mean "to pull out flag leaved flax". It was named as a suburb in 1982.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>PINJAR</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>PINJAR</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>PINJAR</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Pinjar is named after the large swampy lake of this name located north east of Wanneroo. The lake name is shown on government plans from 1868, and the name is of Aboriginal origin. The meaning of Pinjar is unknown, but could be "tadpole" or "swampy lake"</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>BAILUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BAILUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BAILUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This rural locality derives its name from Bailup Creek, and a Police Station and Inn established on the Toodyay Road in the 1840’s. The name is Aboriginal unknown origin.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.738368</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.295706</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001044702101772703,-0.000285110610679104,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>GIDGEGANNUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>GIDGEGANNUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>GIDGEGANNUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The rural suburb of Gidgegannup derives its name from Gidgegannup Spring, which was first recorded by surveyors passing through the area in 1852. Gidgegannup is an Aboriginal word meaning 'place where spears are made'. "Gidgie' is the word for spear</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.793051</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.196639</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001043812167770185,-0.0002856018364212701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>MALAGA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MALAGA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MALAGA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb name Malaga is taken from Malaga Road. This road and three others with unusual names, Truganina, Uganda and Camboon, were surveyed here in 1894. Malaga may be named after the city of Malaga in Spain, or after the Aboriginal word malaga which is the word for ironstone. When the area was promoted by Peet and Co in the 1930's, that company stated the name was of Spanish origin, but there is no evidence to support this is the origin. It was approved as suburb name in 1969.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.862589</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.894254</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.0010410957970983,-0.0002862265069023736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>KARRAGULLEN</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARRAGULLEN</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARRAGULLEN</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name Karragullen has been in use for this area since 1913 when the townsite of this name was gazetted. The townsite was at the head of the Upper Darling Range Railway. Karragullen is the Aboriginal name for the Cannington area as supplied by the Aboriginal "Tommy Bimbar" in 1916. Another source claims the name means "red gully"</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.10398</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.192636</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001043776208209361,-0.0002883949591622091,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>WUNGONG</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WUNGONG</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WUNGONG</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb derives its name from a government townsite on the Perth Bunbury line between Armadale and Byford. The Wungong Brook flows past the south west corner of the town. The townsite of Wungong (pronounced "Woongong") was proclaimed on 12th March 1909 and was named after the nearby Wungong Brook. The course of this brook was first traced by Alfred Hillman in January 1835</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.152386</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.008274</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042120056185253,-0.0002888297976392052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>CARDUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CARDUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>CARDUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>In 1844, Surveyor Robert Austin recorded that Cockburn Sound Location 22 was called Cardoup. The brook joining the northern boundary of this location was shown variously as Cardoup or Cadup Brook. In 1851, the location was purchased by H. Mead, who gave his address as Cardup and this spelling was used for the brook on most subsequent plans and surveys. By 1927, a railway siding had been erected nearby and was called Cardup after the brook and although the siding is no longer in use, the place still retains the name. Cardup is an Aboriginal name said to mean "place of the racehorse goanna"(Kurda).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.221725</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.0072</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042110408279102,-0.0002894526804831888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>KARRAKUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARRAKUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARRAKUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Karrakup is a large area of forest and farm country east of Byford. It derives its name from "Karrak", the Nyoongar word for the red-tailed black cockatoo which is prevalent in the area. It was approved as a suburb name in 1997.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.221725</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.0072</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042110408279102,-0.0002894526804831888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>MUNDIJONG</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MUNDIJONG</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MUNDIJONG</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This place was originally named Jarrahdale Junction. It was at the junction of the Rockingham-Jarrahdale line and the government line from Perth to Bunbury which was built in 1893. A town grew up around the junction, and a timber depot which included a large planing mill was constructed. The town was first declared as "Manjedal" in 1893 as it was thought to be the Aboriginal name of the area. In 1897 this was found to be incorrect, and the name was changed to Mundijong.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.295176</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.98589</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001041918977292056,-0.0002901125020475208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>JARRAHDALE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JARRAHDALE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JARRAHDALE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Jarrahdale is a descriptive name, derived from its situation in some of Western Australia's best Jarrah forest. The place came about as a result of the granting of timber concessions here in 1872. The Jarrahdale Timber Coy constructed a railway for the transport of timber from Jarrahdale through Mundijong to Rockingham.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.338316</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.072494</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042696954260715,-0.0002905000352569064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>MARDELLA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MARDELLA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MARDELLA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Mardella is a variant form of the Aboriginal name of the nearby Medulla Brook. A farming area between Mundijong and Serpentine, the name Mardella has been in use in this area since 1898, when a railway siding of this name was opened here. It was approved as a suburb name in 1997</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.364427</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.901277</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001041158885780704,-0.0002907345943582773,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>KARAWARA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARAWARA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARAWARA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb was formerly the southern portion of the Collier Pine Plantation. Karawara is an Aboriginal word meaning "green", and was approved as the suburb name in 1973.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.989651</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.870024</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040878135304958,-0.0002873679242653516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>BOORAGOON</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BOORAGOON</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BOORAGOON</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Booragoon is the Aboriginal name for the lower reaches of the Canning River and was chosen as a suburb name in the early 1950's by the then Melville Road Board from a list published in the West Australian on 3rd January 1925.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.034236</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.808606</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040326408023757,-0.0002877684381453364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>MYAREE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MYAREE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MYAREE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Prior to 1954, the suburb now named Myaree was generally known as part of Melville and consisted of poultry farms and several industries. The Melville Road Board acquired land and planning for an urban residential area in conjunction with an industrial area was begun. The name, Myaree, which is an Aboriginal word meaning 'foliage', was suggested and street names were chosen commemorating men of the district who died on active service in the first world war and old residents who had played an active part in the development of the area. Development of the area commenced in 1955.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.034236</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.808606</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040326408023757,-0.0002877684381453364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>WILLAGEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WILLAGEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WILLAGEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Willagee takes its name from Willagee Swamp, the Aboriginal name of a feature now reclaimed. The area was developed in the early 1950's, and the name approved in 1954</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.02581</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.80135</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040261226266742,-0.0002876927460964162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>COOLBELLUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COOLBELLUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COOLBELLUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>"Coolbellup" was recorded by AC Gregory in 1842 as the Aboriginal name of a lake in the area. Surveys by RM. King in 1877 showed the local name to be "North Lake" and both names were shown on plans. The feature is in fact the northernmost of the chain of Lakes lying between Mandurah and the Swan River. In 1954 most of the land west of the lake was resumed by the State Housing Commission and an intensive housing scheme was planned. A meeting in 1957 decided that the place should be called "Coolbellup" in preference to North Lake.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.092963</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.837476</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040585751646282,-0.000288295991763241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>KARDINYA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARDINYA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARDINYA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Kardinya is an Aboriginal word meaning "sunrise", and was first used for a road name in this area in 1955. The name was approved as a suburb name in 1961.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.092963</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.837476</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040585751646282,-0.000288295991763241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>NORTH COOGEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>NORTH COOGEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>NORTH COOGEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>North Coogee was approved as a suburb on 19 December 2005 from the existing localities of Spearwood, Hamilton Hill and Coogee.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.092963</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.837476</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040585751646282,-0.000288295991763241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>BANJUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BANJUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BANJUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Surveyor James Oxley in 1889 recorded the names of two water features as "Lake Bangup" and "Bangdown Swamp". Exactly who gave these features their unusual names is unknown and only one of these names was shown on maps, ie. "Bangup Lake". Land for the Armadale - Jandakot Railway link was resumed in 1907 and a station was constructed. The station was located 3.6 km north of "Bangup Lake" and was named "Banjupp". This is presumed to be a corruption of the original name of the lake. The name "Banjupp" was used until the 1930's when the spelling was amended to Banjup.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.132801</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.860591</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040793397224207,-0.0002886538625980563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>BEELIAR</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BEELIAR</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BEELIAR</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>"Beeliar" is the Aboriginal name for the southern metropolitan region. R M Lyon recorded the name in 1833, referring to it as "the district of Midjegoorong" (an Aboriginal leader). The name was approved for the suburb in 1993.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.132801</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.860591</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040793397224207,-0.0002886538625980563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>JANDAKOT</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>JANDAKOT</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>JANDAKOT</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Jandakot takes its name from Lake Jandakot which was recorded with this name as early as 1844. It is an Aboriginal word said to mean "place of the Whistling Eagle". During subsequent years the name was recorded variously as "Jandicoot", "Jandakoot" and "Jandakott" but the spelling eventually adopted was "Jandakot". The lake name was changed to Forrestdale Lake in 1973. The Government subdivided the Jandakot area into small farmlets in 1889</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.132801</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.860591</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040793397224207,-0.0002886538625980563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>YANGEBUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>YANGEBUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>YANGEBUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Yangebup, like Yanchep, is believed to be derived from the Aboriginal word “yanget”, the name of a native flax or bullrush. Yangebup Lake, after which the suburb is named, was first recorded in 1841, and Yangebup was approved as a suburb name in 1977.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.132801</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.860591</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040793397224207,-0.0002886538625980563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>COOGEE</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COOGEE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COOGEE</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of "Coogee" takes its name from the lake in the area. Originally, this lake was named Lake Munster after Prince William, the Earl of Munster and later King William IV. The Aboriginal name Kou-Gee was recorded in 1841 by Thomas Watson and variously spelt as Koojee, Coojee and Coogee, which gradually gained pre-eminence over the old name</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.116146</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.76579</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039941785351709,-0.000288504248186285,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>MANDOGALUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MANDOGALUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MANDOGALUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The area of this suburb was originally referred to as "7 Mile Camp", but when a townsite was declered here in 1923 it was named "Balmanup". Lake Balmanup was an alternative name for Mandogalup Swamp.. In 1945 it was found that the townsite was more commonly known as Mandogalup and it was changed to Mandogalup in 1946. It is an Aboriginal name, the menaing of which is unknown.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.227693</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.870492</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040882339420488,-0.000289506291938344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>WANDI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WANDI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WANDI</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb was approved on March 14th, 1978 and commemorates a highly regarded Aboriginal stockman who drove sheep in the Cockburn Sound area for Anchorage Butchers around the 1920's.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.227693</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.870492</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040882339420488,-0.000289506291938344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>COOLOONGUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COOLOONGUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COOLOONGUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Is named after Lake Cooloongup. Lake Cooloongup was recorded by Surveyor AC Gregory in 1843. The meaning of the Aboriginal name is not known. The suburb was named in 1974.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.299743</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.762751</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039914485550224,-0.0002901535281114125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>KARNUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARNUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>67</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARNUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb of Karnup takes its name from the townsite declared here in 1924. It is an Aboriginal name, the meaning of which is unknown, taken from nearby Karnup Brook (now known as Karnet Brook).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.364374</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.909164</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001041229735907162,-0.0002907341182546859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>BARRAGUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BARRAGUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BARRAGUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Barragup is the Aboriginal name of the place in the Serpentine River where the Aborigines constructed a "mungur" or fish trap. Early setters would buy fish from the Aborigines here as they caught them in abundance when the first winter rains flushed them out of the river. The meaning of the name is not known.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.561118</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.771132</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039989773354186,-0.0002925014996685231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>COODANUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>COODANUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>69</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>COODANUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Coodanup was approved as a suburb name in October 1970. The meaning and derivation of "Coodanup" is unknown although H.W. Bunbury, in his book "Early Days in WA." (1836), gives "Colanup" as the Aboriginal name for the mouth of the Serpentine River. This area was subdivided as "Coodanup Park Estate" 1956.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.550988</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.751804</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039816146976072,-0.0002924105003350874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>MANDURAH</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MANDURAH</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MANDURAH</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Land was originally reserved for a townsite named "Peel" on the west side of the entrance to Peel Inlet in July 1831 but no development took place and most early settlers took up residence on the east shore, the Aboriginal name of which was Mandurah. Early settlers were Peel, Littleton and Creery and Thomas Peel named his residence "Mandurah House". The name is believed to be derived from the word "mandjar", meaning "trading place"</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.550988</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.751804</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039816146976072,-0.0002924105003350874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>WANNANUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WANNANUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WANNANUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Wannanup is the original Aboriginal name for part of the suburb previously approved as Florida.. Florida became divided by the Dawesville Channel resulting in the City of Mandurah renaming the northern area to Wannanup. The name change was approved in 1996</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.550988</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.751804</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039816146976072,-0.0002924105003350874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00071">
+      <name>BEECHINA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BEECHINA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>72</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BEECHINA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>"Beechina" is the Aboriginal name of a nearby white gum valley, further north-east. It was first recorded by surveyor P Chauncy in 1847, when he was carrying out the survey of the first road to Northam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.860734</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.315042</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001044875800016041,-0.0002862098431621754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00072">
+      <name>WOOROLOO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WOOROLOO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>73</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WOOROLOO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Wooroloo is an Aboriginal name, first recorded in 1841 when a site for townsite to be named "Worriloo" was surveyed. Other spellings of Worrilow and Warriloo are also recorded, but by the 1890's the Wooroloo spelling was commonly used. A railway stopping place named Wooroloo was established in 1897, and a government townsite of this name declared in 1913.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.804012</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.312779</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001044855471141161,-0.0002857003007709876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00073">
+      <name>BALCATTA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BALCATTA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>74</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BALCATTA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The area now known as Balcatta was once contained in the northern half of Perth Shire location Au granted to T.R.C. Walters on the 10th March 1840. The name Balcatta was recorded by Alexander Forrest in 1877 as being the Aboriginal name for the northern position of Careniup Swamp and the name was used on an offer of sale by Mr Mews in 1888. A later owner, James Arbuckle, named his house Balcatta after the area it overlooked.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.861596</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.815211</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040385741748273,-0.0002862175866423806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00074">
+      <name>INNALOO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>INNALOO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>INNALOO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The area of this suburb was originally known by the Aboriginal name "Njookenbooroo" (sometimes spelt Ngurgenboro or Noorgenboro). This name was too difficult to pronounce or spell, and in 1927 an alternative name was sought. A list of Aboriginal words compiled by Daisy Bates was provided and "Innaloo", the name of an Aboriginal woman from Dongara was chosen. The name was approved in 1927</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00075">
+      <name>KARRINYUP</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KARRINYUP</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>76</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KARRINYUP</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The development of the area today known as KARRINYUP had its beginnings in the early 1840's when Samuel Moore took up a grant of 780 acres in the northern part of the suburb. Moore's grant, Swan Location 92 was surveyed by P Chauncey in 1844 and Chauncey recorded a large swamp just to the east of Karrinyup as Careniup Swamp. This swamp is still known by this name today, and is the name from which Karrinyup is derived. When the golf course was being developed in the late 1920's the Foundation Committee altered Careniup to create Karrinyup</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.882332</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.791881</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040176164792488,-0.0002864038612978546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00076">
+      <name>KALAMUNDA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KALAMUNDA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>77</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KALAMUNDA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>This suburb was named in 1901 following a request by 32 residents of the area for a townsite to be declared here. The residents chose the name "CALAMUNDA" as the name of the proposed townsite, combining two Aboriginal words recorded in a book on Aboriginal language by Bishop Salvado. "Cala" signifies "home, district, settlement," and "Munda" signifies "forest" and the residents hoped it would be considered an appropriate name. The name was respelt "Kalamunnda" by the Surveyor General, but later in 1901 was amended to Kalamunda.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.939027</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>116.012518</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001042158180685911,-0.0002869131611399425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00077">
+      <name>TUART HILL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>78</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Tuart Hill is a descriptive name, and derives from the groves of Tuart trees on the rise above Dog Swamp adjacent to Wanneroo Road. In 1914 the Grenville Progress Association sought to have this place named "Grenville", but the name was rejected because it was too similar to Granville in New South Wales. The Progress Association then nominated "Tuart Hill" as an alternative. The name was not approved at this time, but became adopted through common usage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.896748</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.846807</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040669573445444,-0.0002865333624288757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00078">
+      <name>TUART HILL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>79</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Tuart Hill is a descriptive name, and derives from the groves of Tuart trees on the rise above Dog Swamp adjacent to Wanneroo Road. In 1914 the Grenville Progress Association sought to have this place named "Grenville", but the name was rejected because it was too similar to Granville in New South Wales. The Progress Association then nominated "Tuart Hill" as an alternative. The name was not approved at this time, but became adopted through common usage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.896748</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.846807</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040669573445444,-0.0002865333624288757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00079">
+      <name>TUART HILL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>80</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Tuart Hill is a descriptive name, and derives from the groves of Tuart trees on the rise above Dog Swamp adjacent to Wanneroo Road. In 1914 the Grenville Progress Association sought to have this place named "Grenville", but the name was rejected because it was too similar to Granville in New South Wales. The Progress Association then nominated "Tuart Hill" as an alternative. The name was not approved at this time, but became adopted through common usage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.896748</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.846807</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040669573445444,-0.0002865333624288757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00080">
+      <name>TUART HILL</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>81</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>TUART HILL</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Tuart Hill is a descriptive name, and derives from the groves of Tuart trees on the rise above Dog Swamp adjacent to Wanneroo Road. In 1914 the Grenville Progress Association sought to have this place named "Grenville", but the name was rejected because it was too similar to Granville in New South Wales. The Progress Association then nominated "Tuart Hill" as an alternative. The name was not approved at this time, but became adopted through common usage</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.896748</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.846807</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040669573445444,-0.0002865333624288757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00081">
+      <name>MIRRABOOKA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>82</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MIRRABOOKA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Mirrabooka is an Aboriginal word for the Southern Cross constellation. The name was proposed by the state government in 1954 for a large tract of land to be developed for public housing. It was named the "Mirrabooka Project", but the area now known as Mirrabooka was only named as a suburb in 1980.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.842045</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.855186</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.0010407448432831,-0.0002860419570235367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00082">
+      <name>MALAGA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>MALAGA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>83</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>MALAGA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The suburb name Malaga is taken from Malaga Road. This road and three others with unusual names, Truganina, Uganda and Camboon, were surveyed here in 1894. Malaga may be named after the city of Malaga in Spain, or after the Aboriginal word malaga which is the word for ironstone. When the area was promoted by Peet and Co in the 1930's, that company stated the name was of Spanish origin, but there is no evidence to support this is the origin. It was approved as suburb name in 1969.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.864862</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.895533</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001041107286550784,-0.0002862469256054287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00083">
+      <name>WANNEROO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>WANNEROO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>84</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>WANNEROO</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>In the early days of the Swan River Colony, the district of Wanneroo represented an "outer" region and it is not until 1834, that an excursion into the area by any explorers or settlers is recorded. In that year, a party of four led by John Butler, travelled about 35 miles north from Perth to search for lost cattle and passed through the area just to the east of Lake Joondalup. Butler stated that the aborigines of the area were "those Wanneroo men who frequent Perth in company with the Yellowgonga tribe." It is not known when early settlers started using the name "Wanneroo", but, as early as 1842, a Surveyor recorded "road to Wanneroo" and in 1844, James Dobbins gave his address as Wanneroo. A government townsite was gazetted as "Wanneru" in August 1907 and it was not until May 1953 that the spelling was amended to "Wanneroo".</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-31.617559</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.715081</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001039486258654285,-0.000284025364965133,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00084">
+      <name>BOORAGOON</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BOORAGOON</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>85</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>BOORAGOON</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Booragoon is the Aboriginal name for the lower reaches of the Canning River and was chosen as a suburb name in the early 1950's by the then Melville Road Board from a list published in the West Australian on 3rd January 1925.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00085">
+      <name>KWINANA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>KWINANA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>ID</td>
+<td>86</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Suburb</td>
+<td>KWINANA</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>The name "Kwinana" is taken from the wreck of the S.S. Kwinana which today lies on the shore at Kwinana Beach in Cockburn Sound. The name came from the Aboriginal word for "Pretty Maiden" and the ship was damaged by fire near Carnarvon in December 1920 and was brought to Fremantle. In May 1922 while at Careening Bay, Garden Island, she was blown ashore during a storm to the place where it rests today. The area in the vicinity of the wreck soon became known as Kwinana and in 1937, the Kwinana townsite was gazetted to cover the area now known as Kwinana Beach.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Lat</td>
+<td>-32.143195</td>
+</tr>
+<tr>
+<td>Long</td>
+<td>115.859834</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 0.001040786596977506,-0.0002887472334930069,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_3a2a3e38_0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
