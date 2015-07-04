@@ -6,6 +6,7 @@ $(document).ready(function () {
   var map;
   var autoCompleteInput;
   var layersDrawn = [];
+  var storyMarkersDrawn = [];
 
   function drawLayerControls (layersDrawn) {
     var $layerList = $('<ul>');
@@ -35,6 +36,33 @@ $(document).ready(function () {
       .append(layer.layerOriginal.name);
 
     return $label;
+  }
+
+  function addPhotoStories(stories) {
+
+    $.each(stories, function(i, storyObject) {
+
+      var contentString = '<div id="content">' +
+        '<strong>'+storyObject['Title']+'</strong>' +
+        '<img src="'+storyObject['Primary image']+'" width="100">' +
+        '</div>';
+
+      var infowindow = new google.maps.InfoWindow({
+        content: contentString
+      });
+
+      var photoStoryMarker = new google.maps.Marker({
+        position: new google.maps.LatLng(storyObject['Latitude'],storyObject['Longitude']),
+        map: map,
+        title: storyObject['Title']
+      });
+
+      google.maps.event.addListener(photoStoryMarker, 'click', function() {
+        infowindow.open(map,photoStoryMarker);
+      });
+
+      storyMarkersDrawn.push(photoStoryMarker);
+    });
   }
 
   function initializeMap() {
@@ -119,8 +147,10 @@ $(document).ready(function () {
     });
 
     drawLayerControls(layersDrawn);
+
+    addPhotoStories(MapAllTheThings.photo_stories);
   }
 
- if(canvas)  google.maps.event.addDomListener(window, 'load', initializeMap);
+ if(canvas) google.maps.event.addDomListener(window, 'load', initializeMap);
 
 });
