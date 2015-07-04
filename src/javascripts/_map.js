@@ -7,16 +7,13 @@ $(document).ready(function () {
   var mapOptions = {
     center: new google.maps.LatLng(-27.288135,121.972796),
     clickable: true,
-    // disableDefaultUI: true
-    // disableDoubleClickZoom: true
-    // draggable: false
-    // keyboardShortcuts: false
-    // mapTypeControl: false
-    // mapTypeId: @PRC_CUSTOM_MAPSTYLE
-    // navigationControl: false
-    // scaleControl: false
-    scrollwheel: false,
-    zoom: 5
+    streetViewControl: false,
+    mapTypeControl: false,
+    mapTypeControlOptions: {
+      // Only show default (road) map
+      mapTypeIds: [google.maps.MapTypeId.ROADMAP]
+    },
+    zoom: 6
     }
 
   function initialize() {
