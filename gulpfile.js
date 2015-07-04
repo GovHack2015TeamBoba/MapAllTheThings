@@ -21,12 +21,14 @@ var paths = {
 };
 
 gulp.task('js', function () {
-    return gulp.src(paths.javascript)
+    return gulp.src(paths.javascripts)
         .pipe(plumber())
         .pipe(include())
         .pipe(gulp.dest('public'));
 });
-gulp.task('js-watch', ['js'], browserSync.reload);
+gulp.task('js-watch', ['js'], function () {
+    browserSync.reload();
+});
 
 
 gulp.task('sass', function() {
