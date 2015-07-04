@@ -23,7 +23,7 @@ $(document).ready(function () {
     var $label = $('<label>');
     var $checkbox = $('<input type="checkbox" id="layer_'+ id +'">');
 
-    $checkbox.attr("checked", true);
+    $checkbox.attr("checked", false);
 
     $checkbox.click(function (){
       layer.setMap($(this).is(':checked') ? map : null);
@@ -54,10 +54,11 @@ $(document).ready(function () {
     map = new google.maps.Map(canvas, mapOptions);
 
     $.each(MapAllTheThings.slip_layers, function(i, layerObject) {
+      // Create a data layer for each layer set availale and hide it by default
       var layer = new google.maps.visualization.MapsEngineLayer({
         layerId: layerObject.assetId,
         layerOriginal: layerObject,
-        map: map
+        map: null,
       });
 
       layersDrawn.push(layer);
