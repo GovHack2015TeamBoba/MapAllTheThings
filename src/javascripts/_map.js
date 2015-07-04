@@ -7,6 +7,8 @@ $(document).ready(function () {
   var autoCompleteInput;
   var layersDrawn = [];
   var storyMarkersDrawn = [];
+  var noongarSuburbs = "https://raw.githubusercontent.com/GovHack2015TeamBoba/MapAllTheThings/master/src/javascripts/data/NoongarSuburbs.kml";
+  var nativeTitleWA = "https://raw.githubusercontent.com/GovHack2015TeamBoba/MapAllTheThings/master/src/javascripts/data/NativeTitleWA.kml";
 
   function drawLayerControls (layersDrawn) {
     var $layerList = $('<ul>');
@@ -19,6 +21,14 @@ $(document).ready(function () {
     });
 
     $layerControl.append($layerList);
+  }
+
+  function addKMLayer (layerUrl) {
+
+    var ctaLayer = new google.maps.KmlLayer({
+      url: layerUrl
+    });
+    ctaLayer.setMap(map);
   }
 
   function drawLayerCheckbox (id, layer) {
@@ -42,14 +52,19 @@ $(document).ready(function () {
 
     $.each(stories, function(i, storyObject) {
 
+      if ((storyObject['Latitude'] || storyObject['Longitude']) === null) {
+        return;
+      }
+
       var contentString = '<div id="content">' +
-        '<strong>'+storyObject['Title']+'</strong>' +
-        '<img src="'+storyObject['Primary image']+'" width="100">' +
+        '<h4>'+storyObject['Title']+'</h4>' +
+        '<div><img src="'+storyObject['Primary image']+'" width="250"></div>' +
         '</div>';
 
       var infowindow = new google.maps.InfoWindow({
         content: contentString
       });
+
 
       var photoStoryMarker = new google.maps.Marker({
         position: new google.maps.LatLng(storyObject['Latitude'],storyObject['Longitude']),
@@ -149,6 +164,10 @@ $(document).ready(function () {
     drawLayerControls(layersDrawn);
 
     addPhotoStories(MapAllTheThings.photo_stories);
+
+    addKMLayer(noongarSuburbs);
+
+    addKMLayer(nativeTitleWA);
   }
 
  if(canvas) google.maps.event.addDomListener(window, 'load', initializeMap);
