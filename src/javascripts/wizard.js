@@ -1,14 +1,13 @@
-var level = 0;
-function renderData(data, parent){
+function renderData(data, parent, level){
   var added = false;
-  var list = $("<ul class='level"+ (level++) +"'></ul>");
+  var list = $("<ul class='level"+ (level) +"'></ul>");
   for(var i = 0;i<data.length; i++){
     var d = data[i];
     if (d.parent == parent){
       added = true;
       var el = $("<li></li>");
       el.append("<h3>"+d.title+"</h3>");
-      var rt = renderData(data,d.id);
+      var rt = renderData(data,d.id, level +1);
       if(rt){
         el.append(rt);
       }
@@ -24,6 +23,6 @@ function renderData(data, parent){
 
 $(document).ready(function(){
   if(document.wizdata){
-    $("#wizard").append(renderData(document.wizdata, 0));
+    $("#wizard").append(renderData(document.wizdata, 0,0));
   }
 });
