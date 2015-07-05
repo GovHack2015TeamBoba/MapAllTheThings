@@ -22,7 +22,7 @@ function renderWizard(){
       var nav = data.nav;
       for(var i = 0; i<nav.length; i++){
         var item = nav[i];
-        var np = $("<li class='question' id='item"+(index++)+"' data-layers='"+item.layers+"'>"+item.question+"</li>");
+        var np = $("<div class='question' id='item"+(index++)+"' data-layers='"+item.layers+"'><span class='question-label'>"+item.question+"</span></div>");
         np.hide();
         np.on("click",handleNav);
         element.append(np);
@@ -33,7 +33,7 @@ function renderWizard(){
       var choices = data.choice;
       for(var i = 0; i<choices.length; i++){
         var item = choices[i];
-        var np = $("<li class='choice' id='item"+(index++)+"' data-layers='"+item.layers+"'>"+item.label+"</li>");
+        var np = $("<div class='choice' id='item"+(index++)+"' data-layers='"+item.layers+"'><span class='choice-label'>"+item.label+"</span></div>");
         np.hide();
         np.on("click",handleChoice);
         element.append(np);
@@ -46,6 +46,7 @@ function renderWizard(){
 }
 
 function ShowWizard(){
+  $('#home').hide();
   $("#wizard").show();
 }
 
