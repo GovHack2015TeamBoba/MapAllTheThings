@@ -1,0 +1,13 @@
+<svg version="1.1" id="stories" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#A53437;}
+]]>
+</style>
+<circle class="st1" cx="16.055" cy="15.725" r="16"/>
+<path class="st0" d="M6.537,6.18l7.89,3.916l-7.89-2.233V6.18L6.537,6.18z M24.633,6.514l-7.891,3.916l7.891-2.233V6.514
+	L24.633,6.514z M16.422,25.725l9.633-2.576V9.067l-9.633,2.576V25.725L16.422,25.725z M14.938,25.6l-9.633-2.576V8.942l9.633,2.576
+	V25.6L14.938,25.6z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" id="arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#3DBDBD;}
+]]>
+</style>
+<path class="st0" d="M29.518,50.604c0-10.702,8.676-19.377,19.378-19.377s19.378,8.676,19.378,19.377
+	c0,10.703-8.676,19.379-19.378,19.379S29.518,61.308,29.518,50.604L29.518,50.604z M51.926,53.466l0.012-12.682
+	c0-4.715-6.1-4.718-6.1-0.141L45.85,53.45c-0.685-0.768-1.389-1.496-2.072-2.264c-3.493-3.362-7.954,1.318-4.195,4.451l9.327,8.344
+	l9.313-8.344c3.812-3.07-0.941-7.936-4.132-4.49L51.926,53.466L51.926,53.466z"/>
+</svg>
