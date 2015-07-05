@@ -63,6 +63,10 @@ function ShowWizard(){
   $("#wizard").show();
 }
 
+function HideWizard(){
+  $("#wizard, #overlay, #home").hide();
+}
+
 function PanelStateChange(){
   var pnl = $("#mainTitlePanel");
   if(pnl.hasClass("panelUp")){
@@ -84,4 +88,9 @@ $(document).ready(function(){
     PanelStateChange();
     ShowWizard();
   });
+
+  $("#bottomLeft").on("click", function() {
+    HideWizard();
+  });
+
 });
