@@ -4,8 +4,9 @@
     <title>{{title}}</title>
     <link rel='stylesheet' href='/styles.css'>
     <link rel="stylesheet" href="/wizard.css">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,400italic' rel='stylesheet' type='text/css'>
     <script src="/application.js"></script>
-    {% block headerjs %}{% endblock %}
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false&amp;libraries=visualization,places"></script>
   </head>
   <body class="{{bodyClass}}">
     {% block content %}{% endblock %}
