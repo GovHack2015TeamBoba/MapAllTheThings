@@ -28,7 +28,7 @@ gulp.task('images', function () {
 gulp.task('wizard', function () {
     return gulp.src("src/stylesheets/wizard.css")
         .pipe(plumber())
-        .pipe(gulp.dest('public/stylesheets'));
+        .pipe(gulp.dest('public'));
 });
 gulp.task('js', function () {
     return gulp.src(paths.javascripts)
