@@ -187,7 +187,7 @@ $(document).ready(function () {
 
     drawLayerControls(layersDrawn);
 
-    addPhotoStories(MapAllTheThings.photo_stories);
+    // addPhotoStories(MapAllTheThings.photo_stories);
 
     // addKMLayer(noongarSuburbs);
 
