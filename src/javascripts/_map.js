@@ -5,6 +5,7 @@ $(document).ready(function () {
 
   var map;
   var autoCompleteInput;
+  var infowindow = new google.maps.InfoWindow();
   var layersDrawn = [];
   var storyMarkersDrawn = [];
   var noongarSuburbs = "https://raw.githubusercontent.com/GovHack2015TeamBoba/MapAllTheThings/master/src/javascripts/data/NoongarSuburbs.kml";
@@ -80,11 +81,6 @@ $(document).ready(function () {
         '<div><img src="'+storyObject['Primary image']+'" width="250"></div>' +
         '</div>';
 
-      var infowindow = new google.maps.InfoWindow({
-        content: contentString
-      });
-
-
       var photoStoryMarker = new google.maps.Marker({
         position: new google.maps.LatLng(storyObject['Latitude'],storyObject['Longitude']),
         map: map,
@@ -92,7 +88,9 @@ $(document).ready(function () {
       });
 
       google.maps.event.addListener(photoStoryMarker, 'click', function() {
-        infowindow.open(map,photoStoryMarker);
+        infowindow.setContent(contentString);
+        infowindow.open(map, photoStoryMarker);
+        map.setCenter(photoStoryMarker.position);
       });
 
       storyMarkersDrawn.push(photoStoryMarker);
