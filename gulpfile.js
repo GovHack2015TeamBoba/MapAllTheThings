@@ -18,8 +18,13 @@ var paths = {
   stylesheets: stylesheets + '/**/*.{scss,sass}',
   javascript:  javascripts + '/application.js',
   javascripts: javascripts + '/**/*.js',
+  images: "src/images/**.*"
 };
-
+gulp.task('images', function () {
+    return gulp.src(paths.images)
+        .pipe(plumber())
+        .pipe(gulp.dest('public/images'));
+});
 gulp.task('js', function () {
     return gulp.src(paths.javascripts)
         .pipe(plumber())
@@ -49,7 +54,7 @@ gulp.task('sass', function() {
 });
 
 // Static Server + watching scss/html files
-gulp.task('serve', ['sass', 'js'], function() {
+gulp.task('serve', ['images','sass', 'js'], function() {
 
     browserSync.init(null, {
         proxy: "http://localhost:3000",
