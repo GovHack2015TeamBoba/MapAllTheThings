@@ -4,7 +4,11 @@ $(document).ready(function () {
   $layerControl = $('#layer-control');
 
   var map;
+  var autoCompleteInput;
   var layersDrawn = [];
+  var storyMarkersDrawn = [];
+  var noongarSuburbs = "https://raw.githubusercontent.com/GovHack2015TeamBoba/MapAllTheThings/master/src/javascripts/data/NoongarSuburbs.kml";
+  var nativeTitleWA = "https://raw.githubusercontent.com/GovHack2015TeamBoba/MapAllTheThings/master/src/javascripts/data/NativeTitleWA.kml";
 
   function drawLayerControls (layersDrawn) {
     var $layerList = $('<ul>');
@@ -19,11 +23,19 @@ $(document).ready(function () {
     $layerControl.append($layerList);
   }
 
+  function addKMLayer (layerUrl) {
+
+    var ctaLayer = new google.maps.KmlLayer({
+      url: layerUrl
+    });
+    ctaLayer.setMap(map);
+  }
+
   function drawLayerCheckbox (id, layer) {
     var $label = $('<label>');
     var $checkbox = $('<input type="checkbox" id="layer_'+ id +'">');
 
-    $checkbox.attr("checked", true);
+    $checkbox.attr("checked", false);
 
     $checkbox.click(function (){
       layer.setMap($(this).is(':checked') ? map : null);
@@ -34,6 +46,38 @@ $(document).ready(function () {
       .append(layer.layerOriginal.name);
 
     return $label;
+  }
+
+  function addPhotoStories(stories) {
+
+    $.each(stories, function(i, storyObject) {
+
+      if ((storyObject['Latitude'] || storyObject['Longitude']) === null) {
+        return;
+      }
+
+      var contentString = '<div id="content">' +
+        '<h4>'+storyObject['Title']+'</h4>' +
+        '<div><img src="'+storyObject['Primary image']+'" width="250"></div>' +
+        '</div>';
+
+      var infowindow = new google.maps.InfoWindow({
+        content: contentString
+      });
+
+
+      var photoStoryMarker = new google.maps.Marker({
+        position: new google.maps.LatLng(storyObject['Latitude'],storyObject['Longitude']),
+        map: map,
+        title: storyObject['Title']
+      });
+
+      google.maps.event.addListener(photoStoryMarker, 'click', function() {
+        infowindow.open(map,photoStoryMarker);
+      });
+
+      storyMarkersDrawn.push(photoStoryMarker);
+    });
   }
 
   function initializeMap() {
@@ -51,21 +95,81 @@ $(document).ready(function () {
       maxZoom: 18
     };
 
+    var westernAustraliaBounds = new google.maps.LatLngBounds(
+      new google.maps.LatLng(-34.981,111.203),
+      new google.maps.LatLng(-12.861,129.878)
+    );
+
+    var autocompleteOptions = {
+      bounds: westernAustraliaBounds,
+      componentRestrictions: {country: 'au'}
+    };
+
     map = new google.maps.Map(canvas, mapOptions);
 
+    autoCompleteInput = document.getElementById('pac-input');
+
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(autoCompleteInput);
+
+    var autocomplete = new google.maps.places.Autocomplete(autoCompleteInput, autocompleteOptions);
+    autocomplete.bindTo('bounds', map);
+
+    var marker = new google.maps.Marker({
+      map: map,
+      anchorPoint: new google.maps.Point(0, -29)
+    });
+
+    google.maps.event.addListener(autocomplete, 'place_changed', function() {
+      // hide any visible marker
+      marker.setVisible(true);
+
+      var place = autocomplete.getPlace();
+
+      if (!place.geometry) {
+        window.alert("Sorry, no geometry data found.");
+        return;
+      }
+
+      // If the place has a geometry, then present it on a map.
+      if (place.geometry.viewport) {
+        map.fitBounds(place.geometry.viewport);
+      } else {
+        map.setCenter(place.geometry.location);
+        map.setZoom(17);  // Why 17? Because it looks good.
+      }
+
+      marker.setIcon(({
+        url: place.icon,
+        size: new google.maps.Size(71, 71),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(17, 34),
+        scaledSize: new google.maps.Size(35, 35)
+      }));
+      marker.setPosition(place.geometry.location);
+      marker.setVisible(true);
+
+    });
+
     $.each(MapAllTheThings.slip_layers, function(i, layerObject) {
+      // Create a data layer for each layer set availale and hide it by default
       var layer = new google.maps.visualization.MapsEngineLayer({
         layerId: layerObject.assetId,
         layerOriginal: layerObject,
-        map: map
+        map: null,
       });
 
       layersDrawn.push(layer);
     });
 
     drawLayerControls(layersDrawn);
+
+    addPhotoStories(MapAllTheThings.photo_stories);
+
+    addKMLayer(noongarSuburbs);
+
+    addKMLayer(nativeTitleWA);
   }
 
- if(canvas)  google.maps.event.addDomListener(window, 'load', initializeMap);
+ if(canvas) google.maps.event.addDomListener(window, 'load', initializeMap);
 
 });
