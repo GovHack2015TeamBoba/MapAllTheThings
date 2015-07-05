@@ -1,23 +1,20 @@
-function renderWizard(data, parent, level){
-  var added = false;
-  var list = $("<ul class='wizmenu level"+ (level) +"'></ul>");
-  for(var i = 0;i<data.length; i++){
-    var d = data[i];
-    if (d.parent == parent){
-      added = true;
-      var el = $("<li class='wizitem'></li>");
-      el.append("<h3>"+d.title+"</h3>");
-      var rt = renderWizard(data,d.id, level +1);
-      if(rt){
-        el.append(rt);
+function renderWizard(){
+  var pd = $("#wizard");
+  var root = document.wizdata;
+
+  var index =0;
+  var renderSegment(element, data){
+    if("nav" in data){
+      var nav = data.nav;
+      for(var i = 0; i<nav.length; i++){
+        var item = nav[i];
+        var np = $("<li class='question' id='item"+(index++)+"' data-layers='"+item.layers+"'>"+item.question+"</li>");
+        element.append(np);
+        renderSegment(np,item.next);
       }
-      list.append(el);
     }
-  }
-  if(added){
-    return list;
-  } else {
-    return null;
+    if("choice" in data){
+    }
   }
 }
 
@@ -30,14 +27,11 @@ function PanelStateChange(){
   } else {
     pnl.removeClass("panelDown").addClass("panelUp");
   }
-  
 }
 
 $(document).ready(function(){
 
   if(document.wizdata){
-    $("#wizard").append(renderWizard(document.wizdata, 0,0));
+    renderWizard();
   }
-
-  
 });
