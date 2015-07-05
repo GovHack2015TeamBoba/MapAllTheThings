@@ -71,6 +71,7 @@ document.wizdata = {
 							}
 						}
 					]
+        }
 			},
 			{
 				question:"Are you travelling around WA?",
@@ -105,7 +106,7 @@ document.wizdata = {
 									{
 										label:"Do you use public transport?",
 										layers:["09372590152434720789-13313542664337428076", "09372590152434720789-02406381474707693508", "09372590152434720789-18334593804525489987"]
-									}
+									},
 									{
 										label:"Do you drive a car?",
 										layers:["09372590152434720789-00934723860504938151"]
@@ -114,6 +115,7 @@ document.wizdata = {
 							}
 						},
 					]
+        }
 			},
 			{
 				question:"Are you interested in Indigenous Culture?",
@@ -144,10 +146,10 @@ document.wizdata = {
 									{
 										label:"Are you interested in learning about Noongar-derived suburb names?",
 										layers:["NOONGAR SUBURBS MARKERS"]
-									},
+									}
 								]
 							}
-						},
+						}
 					]
         }
 			}
