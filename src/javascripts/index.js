@@ -18,9 +18,11 @@ function renderWizard(){
     var layers = ele.data("layers").split(',');
     for(var i=0;i<layers.length;i++){
       var layerid = layers[i];
-
-      $('input:checkbox[data-layer-id="'+layerid+'"]').click();
-
+      if (layerid === "LocalStories" || layerid === "Pixtory") {
+        MapAllTheThings.addPhotoStories(MapAllTheThings.photo_stories);
+      } else {
+        $('input:checkbox[data-layer-id="'+layerid+'"]').click();
+      }
     }
   }
   function renderSegment(element, data){
