@@ -48,6 +48,10 @@ function renderWizard(){
         element.append(np);
         renderSegment(np,item.next);
       }
+      element.append($("<button class='hidemap' style='display:none'>Show map</button>").on("click",function(){
+        $("#wizard").hide();
+        $("#overlay").hide();
+      }));
     }
   }
   renderSegment(pd,root.wizard);
