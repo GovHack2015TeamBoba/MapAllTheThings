@@ -68,7 +68,7 @@ MapAllTheThings.slip_layers = [
     "snake_case": "water_demand_region_boundaries",
     "assetId": "09372590152434720789-01064970710144667276",
     "mapORlayer": "map",
-    "works": false,
+    "works": true,
     "dataType": "Polygon"
   },
   {
@@ -86,7 +86,7 @@ MapAllTheThings.slip_layers = [
     "snake_case": "bicycle_routes_and_shared_paths",
     "assetId": "09372590152434720789-14689280532638025030",
     "mapORlayer": "layer",
-    "works": false,
+    "works": true,
     "dataType": "Line"
   },
   {
@@ -95,7 +95,7 @@ MapAllTheThings.slip_layers = [
     "snake_case": "dfes_stations",
     "assetId": "09372590152434720789-16346722722399592455",
     "mapORlayer": "layer",
-    "works": false,
+    "works": true,
     "dataType": "Point"
   },
   {
@@ -131,7 +131,7 @@ MapAllTheThings.slip_layers = [
     "snake_case": "railway_lines",
     "assetId": "09372590152434720789-18334593804525489987",
     "mapORlayer": "layer",
-    "works": false,
+    "works": true,
     "dataType": "Line"
   },
   {
@@ -140,7 +140,7 @@ MapAllTheThings.slip_layers = [
     "snake_case": "iron_staining_risk",
     "assetId": "09372590152434720789-01595251729696585091",
     "mapORlayer": "layer",
-    "works": false,
+    "works": true,
     "dataType": "Polygon"
   },
   {
@@ -148,6 +148,15 @@ MapAllTheThings.slip_layers = [
     "slipName": "Environmentally Sensitive Areas",
     "snake_case": "environmental_sensitivity",
     "assetId": "09372590152434720789-01627525817521224070",
+    "mapORlayer": "layer",
+    "works": true,
+    "dataType": "Polygon"
+  },
+  {
+    "name": "Who lives here?",
+    "slipName": "Selected Person Characteristics (LGA) ABS B01",
+    "snake_case": "selected_person_characteristics_LGA_ABS_B01",
+    "assetId": "09372590152434720789-12830528591563949894",
     "mapORlayer": "layer",
     "works": true,
     "dataType": "Polygon"
