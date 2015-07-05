@@ -25,11 +25,6 @@ gulp.task('images', function () {
         .pipe(plumber())
         .pipe(gulp.dest('public/images'));
 });
-gulp.task('wizard', function () {
-    return gulp.src("src/stylesheets/wizard.css")
-        .pipe(plumber())
-        .pipe(gulp.dest('public'));
-});
 gulp.task('js', function () {
     return gulp.src(paths.javascripts)
         .pipe(plumber())
@@ -59,7 +54,7 @@ gulp.task('sass', function() {
 });
 
 // Static Server + watching scss/html files
-gulp.task('serve', ['images','wizard','sass', 'js'], function() {
+gulp.task('serve', ['images','sass', 'js'], function() {
 
     browserSync.init(null, {
         proxy: "http://localhost:3000",
@@ -67,7 +62,6 @@ gulp.task('serve', ['images','wizard','sass', 'js'], function() {
     });
 
     gulp.watch(paths.stylesheets, ['sass']);
-    gulp.watch("src/stylesheets/wizard.css", ['wizard']);
     gulp.watch(paths.javascripts, ['js-watch']);
     gulp.watch("views/**/*.html").on('change', browserSync.reload);
 });
