@@ -21,14 +21,25 @@ $(document).ready(function () {
     });
 
     $layerControl.append($layerList);
+
+    var $toggleLI = $('<li>');
+
+    var $showAllButton = $('<button>Show all layers</button>');
+    var $hideAllButton = $('<button>Hide all layers</button>');
+
+    $showAllButton.click(function () { toggleLayers() });
+    $hideAllButton.click(function () { toggleLayers() });
+
+    $toggleLI.append([$showAllButton, $hideAllButton]);
+
+    // $layerList.append($toggleLI);
+
   }
 
-  function addKMLayer (layerUrl) {
-
-    var ctaLayer = new google.maps.KmlLayer({
-      url: layerUrl
+  function toggleLayers () {
+    $layerControl.find('input[id^="layer_"]').each($).wait(100, function (index) {
+      $(this).click();
     });
-    ctaLayer.setMap(map);
   }
 
   function drawLayerCheckbox (id, layer) {
@@ -46,6 +57,14 @@ $(document).ready(function () {
       .append(layer.layerOriginal.name);
 
     return $label;
+  }
+
+  function addKMLayer (layerUrl) {
+
+    var ctaLayer = new google.maps.KmlLayer({
+      url: layerUrl
+    });
+    ctaLayer.setMap(map);
   }
 
   function addPhotoStories(stories) {
@@ -152,6 +171,9 @@ $(document).ready(function () {
 
     $.each(MapAllTheThings.slip_layers, function(i, layerObject) {
       // Create a data layer for each layer set availale and hide it by default
+
+      // console.log('Creating "'+ layerObject.slipName +'" layer')
+
       var layer = new google.maps.visualization.MapsEngineLayer({
         layerId: layerObject.assetId,
         layerOriginal: layerObject,
@@ -165,11 +187,21 @@ $(document).ready(function () {
 
     addPhotoStories(MapAllTheThings.photo_stories);
 
-    addKMLayer(noongarSuburbs);
+    // addKMLayer(noongarSuburbs);
 
-    addKMLayer(nativeTitleWA);
+    // addKMLayer(nativeTitleWA);
   }
 
- if(canvas) google.maps.event.addDomListener(window, 'load', initializeMap);
+ if (canvas) {
+    google.maps.event.addDomListener(window, 'load', initializeMap);
+
+    $handle = $('#control-toggle');
+    $handle.click(function (event) {
+      event.preventDefault();
+      $(this).parent().toggleClass('hidden');
+    });
+
+
+ }
 
 });

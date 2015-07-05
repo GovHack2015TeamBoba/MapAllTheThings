@@ -17,26 +17,65 @@ body.map
   min-height: 20px
   min-width: 20px
   font-size: 12px
-  padding: 5px
+  padding: 0
   position: absolute
   right: 5px
   top: 30px
+  transition: transform 250ms ease-out
   &.hidden
-    right: 100%
+    transform: translateX(100%)
+
+    #control-toggle
+      &:before, &:after
+        background-color: #444
 
   ul
     list-style-type: none
-    margin: 0
+    margin: 10px 10px 0 10px
     padding: 0
 
   li
     margin-bottom: 5px
+    line-height: 1.5
 
   label
     cursor: pointer
 
   input
     margin-right: 5px
+
+#control-toggle
+  white-space: nowrap
+  overflow: hidden
+  text-indent: 100%
+  width: 18px
+  height: 30px
+  background-color: #fff
+  display: block
+  position: absolute
+  left: -19px
+  top: 7px
+  border: 1px solid #ccc
+  border-right: 0
+  border-top-left-radius: 3px
+  border-bottom-left-radius: 3px
+
+  &:before, &:after
+    content: "\0200"
+    display: block
+    width: 3px
+    height: 70%
+    top: 5px
+    position: absolute
+    background-color: lighten(#ccc, 4)
+    border-radius: 2px
+
+  &:before
+    left: 5px
+
+  &:after
+    left: 11px
+
 
 .map
   .controls
@@ -57,7 +96,7 @@ body.map
   margin-left: 12px
   padding: 0 11px 0 13px
   text-overflow: ellipsis
-  width: 400px
+  width: 300px
 
   &:focus
     border-color: #4d90fe
