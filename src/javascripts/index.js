@@ -15,9 +15,11 @@ function renderWizard(){
     e.stopPropagation();
     var ele = $(this);
     //apply layer
-    var layers = ele.data("layers");
+    var layers = ele.data("layers").split(',');
     for(var i=0;i<layers.length;i++){
       var layerid = layers[i];
+
+      $('input:checkbox[data-layer-id="'+layerid+'"]').click();
 
     }
   }

@@ -45,7 +45,7 @@ $(document).ready(function () {
 
   function drawLayerCheckbox (id, layer) {
     var $label = $('<label>');
-    var $checkbox = $('<input type="checkbox" id="layer_'+ id +'">');
+    var $checkbox = $('<input type="checkbox" data-layer-id="'+ layer.layerId +'" id="layer_'+ id +'">');
 
     $checkbox.attr("checked", false);
 
