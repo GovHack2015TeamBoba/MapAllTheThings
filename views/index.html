@@ -16,37 +16,48 @@
 <div id="overlay">
 </div>
 
-<!-- main title panel -->
-<div id="mainTitlePanel" class="panelUp">
-  <img class="logomap" src="/images/mapall_logo_400px.jpg" alt="WAmap">
-  <h1 class="mainTitle">{{title}}</h1>
-  <p class="strapline">Your WA geographical data wizard</p>
-</div>
+<div id="home">
+  <!-- main title panel -->
+  <div id="mainTitlePanel" class="home-panel panelUp">
+    <img class="logomap" src="/images/mapall_logo_400px.jpg" alt="WAmap">
+    <h1 class="mainTitle">{{title}}</h1>
+    <p class="strapline">Your WA geographical data wizard</p>
+  </div>
 
-<!-- middle panel -->
-<div id="midPanel" class="panelUp">
-  <h2 class="midPanelText">Viewing WA Data on a map should be easy</h2>
-  <p class="midPanelBlurb">This web app allows you to display abd compare whatever data you like</p>
-  <img alt="Arrow pointing down" src="images/icon_arrow.svg">
-</div>
+  <!-- middle panel -->
+  <div id="midPanel" class="home-panel panelUp">
+    <h2 class="midPanelText">Viewing WA Data on a map should be easy</h2>
+    <p class="midPanelBlurb">This web app allows you to display abd compare whatever data you like</p>
+    <img alt="Arrow pointing down" src="images/icon_arrow.svg">
+  </div>
 
-<!-- bottom panel -->
-<div id="bottomPanel" class="panelUp">
-  <div id="bottomLeft" class="panelUp LeftPanel">
-    <img alt="Whole Map" src="images/icon_wholemap.svg">
-    <h3>View The Whole Map</h3>
-    <p class="bottomPanelBlurb">View the overview of all the merged data</p>
+  <!-- bottom panel -->
+  <div id="bottomPanel" class="home-panel panelUp">
+    <div id="bottomLeft" class="panelUp LeftPanel">
+      <a href="#">
+        <img alt="Whole Map" src="images/icon_wholemap.svg">
+        <h3>View The Whole Map</h3>
+        <p class="bottomPanelBlurb">View the overview of all the merged data</p>
+      </a>
+    </div>
+    <div id="bottomMiddle" class="panelUp MiddlePanel">
+      <a href="#">
+        <img alt="foldMap" src="images/icon_makemap.svg">
+        <h3>Create Your Own Map</h3>
+        <p class="bottomPanelBlurb">Use our wizard to create your own map</p>
+      </a>
+    </div>
+    <div id="bottomRight" class="panelUp RightPanel">
+      <a href="#">
+        <img alt="foldMap" src="images/icon_aboutus.svg">
+        <h3>About Us</h3>
+        <p class="bottomPanelBlurb">Find out more about our team and our inspiration</p>
+      </a>
+    </div>
   </div>
-  <div id="bottomMiddle" class="panelUp MiddlePanel">
-    <img alt="foldMap" src="images/icon_makemap.svg">
-    <h3>Create Your Own Map</h3>
-    <p class="bottomPanelBlurb">Use our wizard to create your own map</p>
-  </div>
-  <div id="bottomRight" class="panelUp RightPanel">
-    <img alt="foldMap" src="images/icon_aboutus.svg">
-    <h3>About Us</h3>
-    <p class="bottomPanelBlurb">Find out more about our team and our inspiration</p>
-  </div>
+  <div class="shade"></div>
+  <div class="shade"></div>
+  <div class="shade"></div>
 </div>
 
 <div id="wizard" style="display:none;">
