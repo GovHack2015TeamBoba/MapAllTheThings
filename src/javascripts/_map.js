@@ -68,7 +68,7 @@ $(document).ready(function () {
     ctaLayer.setMap(map);
   }
 
-  function addPhotoStories(stories) {
+  MapAllTheThings.addPhotoStories = function (stories) {
 
     $.each(stories, function(i, storyObject) {
 
