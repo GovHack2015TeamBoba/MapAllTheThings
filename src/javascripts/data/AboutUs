@@ -1,0 +1,50 @@
+{
+	aboutUs: {
+		acknowledgement: [
+			{
+				acknowledgement: "We respectfully acknowledge the past and present traditional owners of this land on which we are meeting, the Noongar people. It is a privilege to be standing on Noongar country. We also acknowledge the contributions of Aboriginal Australians and non-Aboriginal Australians to the education of all children and people in this country we all live in and share together – Australia."
+			},
+			]
+		
+		teamGroupPHOTO: []
+
+		missionStatement: [
+			{
+				statement: "Open Data should be Open to All!"
+			},
+			]
+
+		members: [
+			{
+				memberName: "Molly Tebo",
+				blurb: "An eLearning Librarian, former scientist, trainer, spinner, knitter, photographer and mother. Molly is a loudmouth and loves working on interesting tech projects.",
+				contact: "@madradish",
+			},
+			{
+				memberName: "Marcus Holmes",
+				blurb: "Gentleman technologist and start-up monkey.",
+				contact: "@GentlemanTech",
+			},
+			{
+				memberName: "Mary Hewitt",
+				blurb: "Musician, Composer, Geologist, Geospatial Scientist, Perpetual University Student and Data Nerd.",
+				contact: "@MaryHewitt93",
+			},
+			{				
+				memberName: "Patrik Affentranger",
+				blurb: "Awesome web publisher, who basically learnt Google Maps API in a day.",
+				contact: "@pzimat",
+			},
+			{
+				memberName: "Van Dutton",
+				blurb: "Passionnate about collaborative innovation for transformation of business and society",
+				contact: "@hangvan96",
+			},
+			{
+				memberName: "Jacqui Swingler"
+				blurb: "Mother, Designer, Innovator and Life-Long Learner",
+				contact: "@jjandthebear",
+			},
+			]
+	}
+}
