@@ -9,11 +9,20 @@ function renderWizard(){
       for(var i = 0; i<nav.length; i++){
         var item = nav[i];
         var np = $("<li class='question' id='item"+(index++)+"' data-layers='"+item.layers+"'>"+item.question+"</li>");
+        np.on("click",handleNav);
         element.append(np);
         renderSegment(np,item.next);
       }
     }
     if("choice" in data){
+      var choices = data.choice;
+      for(var i = 0; i<nav.length; i++){
+        var item = nav[i];
+        var np = $("<li class='choice' id='item"+(index++)+"' data-layers='"+item.layers+"'>"+item.label+"</li>");
+        np.on("click",handleChoice);
+        element.append(np);
+        renderSegment(np,item.next);
+      }
     }
   }
 }
