@@ -76,9 +76,13 @@ $(document).ready(function () {
         return;
       }
 
-      var contentString = '<div id="content">' +
-        '<h4>'+storyObject['Title']+'</h4>' +
-        '<div><img src="'+storyObject['Primary image']+'" width="250"></div>' +
+      // TODO: handle case where no image is provided
+      var contentString = '<div id="photostory-content">' +
+        '<strong>'+ storyObject['Title'] +'</strong>' +
+        '<a target="_blank" href="' + storyObject['URL'] + '">' +
+        '<img src="'+ storyObject['Primary image'] + '" width="250" alt="'+ storyObject['Primary image caption'] +'">' +
+        '</a>' +
+        '<span>Date: ' + storyObject['Date'] + '</span>' +
         '</div>';
 
       var photoStoryMarker = new google.maps.Marker({
