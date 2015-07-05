@@ -4,15 +4,22 @@ function renderWizard(){
 
   var index =0;
 
-  function handleNav(){
+  function handleNav(e){
+    e.stopPropagation();
     var ele = $(this);
     //apply layer
     ele.children().show();
     ele.siblings().hide();
   }
-  function handleChoice(){
+  function handleChoice(e){
+    e.stopPropagation();
     var ele = $(this);
     //apply layer
+    var layers = ele.data("layers");
+    for(var i=0;i<layers.length;i++){
+      var layerid = layers[i];
+
+    }
   }
   function renderSegment(element, data){
     if(data == undefined){
