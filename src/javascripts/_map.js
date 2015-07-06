@@ -101,6 +101,13 @@ $(document).ready(function () {
     });
   }
 
+  function showBackToHome () {
+    var $startOver = $("#layer-control").append("<button class='restart'>Start over</button>");
+    $startOver.click(function () {
+      $("#home, #overlay").show();
+    });
+  };
+
   function initializeMap() {
     var mapOptions = {
       // WA State
@@ -186,6 +193,8 @@ $(document).ready(function () {
     });
 
     drawLayerControls(layersDrawn);
+
+    showBackToHome();
 
     // addPhotoStories(MapAllTheThings.photo_stories);
 
