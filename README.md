@@ -1,6 +1,7 @@
 # MapAllTheThings
 
-Mapping all the things to all the prizes
+Mapping all the things to all the prizes - using the prizes on offer as a guide to what the people contributing the data want to see. It's not as mercenary as it sounds, really ;)
+We feel that government data can be more accessible, especially geospatial data (or data that can be represented geospatially), which is currently hard to get to and understand. So we made a mapping tool that takes data sets and presents them as layers, allowing people to layer multiple data sets on top of each other to compare and contrast data.
 
 
 ## Spin Up
